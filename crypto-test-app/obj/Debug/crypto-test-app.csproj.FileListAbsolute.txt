@@ -1,0 +1,14 @@
+C:\Yusuf\project\crypto-test-app\crypto-test-app\bin\Debug\crypto-test-app.exe.config
+C:\Yusuf\project\crypto-test-app\crypto-test-app\bin\Debug\crypto-test-app.exe
+C:\Yusuf\project\crypto-test-app\crypto-test-app\bin\Debug\crypto-test-app.pdb
+C:\Yusuf\project\crypto-test-app\crypto-test-app\obj\Debug\crypto-test-app.csprojAssemblyReference.cache
+C:\Yusuf\project\crypto-test-app\crypto-test-app\obj\Debug\crypto_test_app.MainForm.resources
+C:\Yusuf\project\crypto-test-app\crypto-test-app\obj\Debug\crypto_test_app.Properties.Resources.resources
+C:\Yusuf\project\crypto-test-app\crypto-test-app\obj\Debug\crypto-test-app.csproj.GenerateResource.cache
+C:\Yusuf\project\crypto-test-app\crypto-test-app\obj\Debug\crypto-test-app.exe
+C:\Yusuf\project\crypto-test-app\crypto-test-app\obj\Debug\crypto-test-app.pdb
+C:\Yusuf\project\crypto-test-app\crypto-test-app\bin\Debug\Newtonsoft.Json.dll
+C:\Yusuf\project\crypto-test-app\crypto-test-app\bin\Debug\RestSharp.dll
+C:\Yusuf\project\crypto-test-app\crypto-test-app\bin\Debug\Newtonsoft.Json.xml
+C:\Yusuf\project\crypto-test-app\crypto-test-app\bin\Debug\RestSharp.xml
+C:\Yusuf\project\crypto-test-app\crypto-test-app\obj\Debug\crypto-test-app.csproj.CopyComplete
